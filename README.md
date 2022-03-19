@@ -8,7 +8,9 @@
 
 # Resources used
 **Python Version:** 3.9
+
 **Packages:** pandas, numpy, sklearn, PCA, OpenCV
+
 **Article:** https://brain-mentors.com/face-mask-detection-using-opencv-in-python/
 
 # Data Collection and preparation
